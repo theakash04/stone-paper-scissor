@@ -9,7 +9,7 @@ Welcome to the Rock, Paper, Scissors game! This simple web-based game allows use
 https://github.com/theakash04/stone-paper-scissor/assets/146631447/b0afa6ec-daa2-407a-a8c4-0309571025e8
 
 
-To see the game in action, check out the [live demo]().
+To see the game in action, check out the [live demo](https://stone-paper-scissor-gray.vercel.app/).
 
 ## Features
 
