@@ -100,17 +100,16 @@ nav p{
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 19rem;
-  height: 70px;
+  padding: 10px;
   background-color: #A6B1E1;
   box-shadow:  19px 19px 26px #afafaf,
              -19px -19px 26px #ffffff;
   color: #fff;
-  margin-top: 50px;
-  border-radius: 20px;
+  margin-top: 40px;
+  border-radius: 10px;
 }
-.result p{
-  font-size: 2rem;
+.resultbtn p{
+  font-size: 1.2rem;
   font-weight: 500;
 }
 

@@ -20,15 +20,15 @@ const Botchoice = () =>{
 
 
 const drawCheck = () =>{
-  result.innerText = "Draw!";
+  result.innerText = "Ah! it's a draw :(";
   resultbtn.setAttribute('style', 'background-color: #A6B1E1')
 }
 const winner = () =>{
-  result.innerText = "You won!!"
+  result.innerText = "You won... Yay!! Congratulation :)"
   resultbtn.setAttribute('style', 'background-color: #65B741')
 }
 const loose = () =>{
-  result.innerText = "You loose!!"
+  result.innerText = "You loose... Ah! Bad luck :("
   resultbtn.setAttribute('style', 'background-color: #EF4040')
 }
 
