@@ -38,14 +38,6 @@ cd rock-paper-scissors-game
 3. Open the index.html file in your web browser.
 
 
-## How to Play
-- Open the game in your web browser.
-
-- Click on the Rock, Paper, or Scissors button to make your choice.
-
-- The bot will make its choice, and the result will be displayed.
-
-- Your wins, losses, and draws will be updated accordingly.
 
 ## Game Rules
 - Rock crushes scissors.
